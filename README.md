@@ -98,4 +98,4 @@
 2. 소켓 프로그래밍   
    
 ---
-*last updated on 2022.08.31*
+*Last updated on 2022.08.31*
